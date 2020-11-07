@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Astronomy_Landing_Page/static/css/main.729a2433.chunk.css",
+    "main.js": "/Astronomy_Landing_Page/static/js/main.9ef7477d.chunk.js",
+    "main.js.map": "/Astronomy_Landing_Page/static/js/main.9ef7477d.chunk.js.map",
+    "runtime-main.js": "/Astronomy_Landing_Page/static/js/runtime-main.d80876c3.js",
+    "runtime-main.js.map": "/Astronomy_Landing_Page/static/js/runtime-main.d80876c3.js.map",
+    "static/js/2.a8ef2adf.chunk.js": "/Astronomy_Landing_Page/static/js/2.a8ef2adf.chunk.js",
+    "static/js/2.a8ef2adf.chunk.js.map": "/Astronomy_Landing_Page/static/js/2.a8ef2adf.chunk.js.map",
+    "static/js/3.8baa5f47.chunk.js": "/Astronomy_Landing_Page/static/js/3.8baa5f47.chunk.js",
+    "static/js/3.8baa5f47.chunk.js.map": "/Astronomy_Landing_Page/static/js/3.8baa5f47.chunk.js.map",
+    "index.html": "/Astronomy_Landing_Page/index.html",
+    "static/css/main.729a2433.chunk.css.map": "/Astronomy_Landing_Page/static/css/main.729a2433.chunk.css.map",
+    "static/js/2.a8ef2adf.chunk.js.LICENSE.txt": "/Astronomy_Landing_Page/static/js/2.a8ef2adf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d80876c3.js",
+    "static/js/2.a8ef2adf.chunk.js",
+    "static/css/main.729a2433.chunk.css",
+    "static/js/main.9ef7477d.chunk.js"
+  ]
+}
